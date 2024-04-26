@@ -1,4 +1,4 @@
-# Guía 02 - Pattern matching, guards y List comprehension
+# Guía 03 - Pattern matching, guards y List comprehension
 
 1. Elaborar una función que reciba como parámetro la siguiente lista de notas: [11, 19, 06, 17, 14, 20, 18] y devuelva una lista indicando si es Aprobado o Desaprobado. Utilizar las siguientes condiciones:
 
