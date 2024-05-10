@@ -22,7 +22,7 @@ Ejemplo:
 
 7. Contador de vocales: Escribe una función que reciba una cadena de texto y devuelva la cantidad de vocales que contiene.
 
-8. Elabore una función que reciba un arreglo de nombres, y devuelva uno nuevo agregando un saludo al principo de cada nombre. 
+8. Elabore una función que reciba una lista de nombres, y devuelva una nueva lista agregando un saludo al principo de cada nombre. 
 
 Ejemplo: 
 
