@@ -17,7 +17,7 @@ La siguiente guía debe de realizarla utilizando el shell interactivo de Haskell
 Ejemplo: 
 
 ``` haskell
-[1,2,3] [2,3,4] (\a b-> a + b) = [2,5,7]
+[1,2,3] [2,3,4] (\a b-> a + b) = [3,5,7]
 ```
 
 7. Contador de vocales: Escribe una función que reciba una cadena de texto y devuelva la cantidad de vocales que contiene.
