@@ -1,4 +1,4 @@
-# Guía 03 - Tuplas, Map y Filter
+# Guía 04 - Tuplas, Map y Filter
 
 La siguiente guía debe de realizarla utilizando el shell interactivo de Haskell para probar las funciones creadas (a no ser que se especifique lo contrario).
 
