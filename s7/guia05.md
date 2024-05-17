@@ -5,21 +5,37 @@ La siguiente guía debe de realizarla utilizando Prolog.
 1. Elaborar un sistema de recomendación médica donde se defina:
 
 a. una enfermedad se caracteriza por un síntoma o más
+
 b. una medicamento alivia una enfermedad
+
 c. una receta indica medicamentos para un paciente (enfermo).
+
 d. que Manuel tiene la enfermedad de la gripe
+
 e. que Alicia tiene el síntoma de cansancio
+
 f. que la fiebre es síntoma de la gripe
+
 g. que la tos es síntoma de la gripe
+
 h. que el cansancio es síntoma de la anemia
+
 i. que las vitaminas eliminan el cansancio
+
 j. que las aspirinas eliminan la fiebre
+
 k. que el jarabe elimina la tos
+
 Y donde se pregunte:
+
 l. Qué se le recetará a Manuel
+
 m. Qué se le recetará a Alicia
+
 n. De qué está enferma Alicia
+
 o. Qué alivia la anemia
+
 p. Qué alivia la gripe
 
 **Hints:**
