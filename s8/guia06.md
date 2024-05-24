@@ -82,7 +82,7 @@ Usa un struct para definir un producto. El programa debe permitir:
     - Mostrar el producto con el precio más alto y el más bajo.
     - Imprimir un reporte con la lista de los precios ordenados por precio.
 
-3. Desarrolla un programa que lea las temperaturas mínimas y máximas diareas de una semana (7 días) y determine:
+3. Desarrolla un programa que lea las temperaturas mínimas y máximas diarias de una semana (7 días) y determine:
     - La temperatura promedio de la semana.
     - El día con la temperatura más alta y el día con la temperatura más baja.
     - **Tip:** Primero debe calcular la temperatura promedio del día.
