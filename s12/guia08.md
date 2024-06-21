@@ -116,7 +116,7 @@ El formato de entrada de datos e impresión será:
 ```
 Ingrese la cadena con el número en notación LNC: 719
 Número en notación decimal: 53
-````
+```
 
 ---
 
