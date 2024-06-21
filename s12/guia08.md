@@ -107,7 +107,7 @@ La palabra NO ES “distinguida”.
 
 3. Se está desarrollando una notación posicional original para representar números enteros. Se le ha llamado “La notación curiosa” (LNC), el cual usa los mismos dígitos tal como la notación decimal. Por ejemplo, del 0 al 9.
 
-Para convertir un número A de LNC a la notación decimal usted debe sumar k términos, donde k es el número de dígitos de A (en la notación LNC). El valor del i-ésimo término, que corresponde al i-ésimo dígito contando de derecha a izquierda, es a<i> x i!. Por ejemplo 719LNC es equivalente a 5310, a partir de 7 x 3! + 1 x 2! + 9 x 1! = 53.
+Para convertir un número A de LNC a la notación decimal usted debe sumar k términos, donde k es el número de dígitos de A (en la notación LNC). El valor del i-ésimo término, que corresponde al i-ésimo dígito contando de derecha a izquierda, es x i!. Por ejemplo 719LNC es equivalente a 5310, a partir de 7 x 3! + 1 x 2! + 9 x 1! = 53.
 
 Realice un programa en C que reciba una cadena de caracteres de máximo 5 dígitos, que represente un número en la notación LNC, la cadena no debe tener ceros a la izquierda. Tenga en cuenta todas las validaciones necesarias.
 
