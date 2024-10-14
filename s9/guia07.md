@@ -15,7 +15,6 @@ que deberá de construir.
    - b) Implemente una funcion que reciba un array (como un puntero a entero), un valor "n" con la longitud e imprima los valores en pantalla.
    - c) La misma función anterior pero recorriendo el arreglo de otra forma.
 
-## B
 7. Elabora una función que reciba un puntero a un numero entero, calcule su cuadrado y actualize su valor.
 8. Elabora una función que reciba 2 parametros: el puntero de un numero entero y un numero entero. La función debera multiplicar el valor del puntero por el numero ingresado.
 9. Elabore una función que intercambie los valores de 2 punteros de strings.
@@ -77,11 +76,13 @@ que deberá de construir.
 
 ## Medium Hard
 
-20. Dada la siguiente lista enlazada: | 1 | -> | 2 | -> | 3 | -> | 4 | -> | 5 |
-   - a) Implemente un método que muestre la cantidad de nodos de la lista.
-   - b) Implemente un método que reciba dos parámetros, el primero debe ser un nodo nuevo y el segundo la posición de la lista enlazada en la cual se ingresará dicho elemento. Si es que el valor del segundo parámetro es mayor a la longitud de la lista enlazada, imprimir un mensaje de alerta.
-   - c) Implemente un método que reciba como parámetro la posición del nodo de la lista enlazada que se eliminará. Si es que el valor del parámetro es mayor o igual a la longitud de la lista enlazada, imprimir un mensaje de alerta.
-   
-21. Implementar un programa en C++ que invierta el orden de los elementos de una pila. Trabajar con la siguiente pila: | 10 | -> | 1 | -> | 7 | -> | 2 | -> | 5 |
+20. Cree un programa que permita leer las temperaturas diarias de una semana (lo almacene en un std::array). Tomar en cuenta que la semana tiene 7 días.
+Posteriormente calcule el promedio de la temperaturas mediante un función llama *CalcularPromedioTemperaturas*. El programa debe pedir al usuario que ingrese las 7 temperaturas por medio de la entrada estándar y luego imprimir el promedio usando la salida estándar.
 
-22. Implementar un programa donde se utilice la siguiente lista doblemente enlazada: | 5 | <-> | 10 | <-> | 15 | <-> | 20 | <-> | 25 |. Imprimir la lista en orden inverso.
+Tip: Asegúrate de usar referencias en la función de cálculo del promedio para evitar copias innecesarias.
+
+---
+
+21. Implementar un programa que permita que un usuario agregue productos al inventario, ingresando el nombre del producto y su cantidad por la entrada estándar. Esta información debe de almacenarla en un std::map<std::string, int>. Posteriormente, el programa debe de imprimir un reporte del inventario (producto y cantidad) usando la salida estándar. Esto debe hacerlo en una función llamada *ConstruirReporte* que reciba como argumento de entrada la estructura de datos map.
+
+22. Implementar un programa que simule una encuesta que pide al usuario su nombre y su preferencia entre varios productos (por ejemplo: “¿Prefieres café, té o jugo?”). Esta información deberá ser ingresada por la entrada estándar y debes usar un `std::tuple<std::string, std::string>` para almacenar el nombre del usuario y su preferencia. Posteriormente realiza un recuento de las preferencias de cada usuario y los almacenes en un `std::map<std::string, int>`. Para finalizar, deberás de imprimir un reporte que muestre cuántas personas prefieren determinada opción.

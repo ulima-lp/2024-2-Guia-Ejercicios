@@ -1,4 +1,4 @@
-# Guía 07 - C++ con Listas Enlazadas
+# Guía 08 - C++ con Listas Enlazadas
 
 La siguiente guía debe de realizarla utilizando C++ y listas enlazadas. Además la compilación deberá hacerla utilizando un archivo Makefile que deberá de construir.Además, la organización del código 
 debe de seguir el paradigma orientado a objetos.
